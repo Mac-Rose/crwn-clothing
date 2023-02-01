@@ -23,7 +23,7 @@ const Header = ({ currentUser }) => (
         </div>
       ) : (
         <NavLink className="option" to="/signin">
-          SIGN-IN
+          SIGN-IN 🚀
         </NavLink>
       )}
     </div>
